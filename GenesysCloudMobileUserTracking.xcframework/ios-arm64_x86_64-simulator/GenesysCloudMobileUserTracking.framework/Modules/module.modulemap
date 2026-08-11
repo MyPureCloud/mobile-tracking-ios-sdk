@@ -1,0 +1,5 @@
+framework module "GenesysCloudMobileUserTracking" {
+    umbrella header "GenesysCloudMobileUserTracking.h"
+    export *
+    module * { export * }
+}
